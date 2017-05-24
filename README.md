@@ -7,10 +7,11 @@
 ### Usage
 * Training
 
-./train iteration model_init.txt seq_model_(01~05).txt model_(01~05).txt
+./train iteration model_init.txt seq_model_01.txt model_01.txt
 
 iteration: assigned iteration #
 
+01 can be replaced with 02, 03, 04, or 05.
 * Testing
 
 ./test modellist.txt testing_data.txt result.txt
