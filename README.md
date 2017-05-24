@@ -6,11 +6,13 @@
 
 ### Usage
 * Training
+
 ./train iteration model_init.txt seq_model_(01~05).txt model_(01~05).txt
 
 iteration: assigned iteration #
 
 * Testing
+
 ./test modellist.txt testing_data.txt result.txt
 
 * For more details, please refer to the file dsp_hw1.pdf.
