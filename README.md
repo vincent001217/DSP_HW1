@@ -16,4 +16,6 @@ iteration: assigned iteration #
 
 Command line: ./test modellist.txt testing_data.txt result.txt
 
+### Footnote
+
 * For more details, please refer to the file dsp_hw1.pdf.
