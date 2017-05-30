@@ -7,14 +7,14 @@
 ### Usage
 * Training
 
-Command line: ./train iteration model_init.txt seq_model_01.txt model_01.txt
+- Command line: ./train iteration model_init.txt seq_model_01.txt model_01.txt
 
 iteration: assigned iteration #
 
 01 can be replaced with 02, 03, 04, or 05.
 * Testing
 
-Command line: ./test modellist.txt testing_data.txt result.txt
+- Command line: ./test modellist.txt testing_data.txt result.txt
 
 ### Footnote
 
